@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient {
+  background: linear-gradient(163deg, rgba(255, 255, 255, 0.16) 11.87%, rgba(196, 196, 196, 0) 128.82%);
+}
+
+.gradient-2 {
+  background: linear-gradient(155deg, rgba(255, 255, 255, 0.31) -19.41%, rgba(255, 255, 255, 0) 117.23%);
+}
+
+.gradient-3 {
+  background: linear-gradient(163deg, rgba(255, 255, 255, 0.25) 11.87%, rgba(196, 196, 196, 0) 128.82%);
+}
+
+.gradient-4 {
+  background: linear-gradient(229deg, rgba(255, 255, 255, 0.31) -64.03%, rgba(255, 255, 255, 0) 104.91%);
+}
+
+.bg-custom {
+  background-image: url("../assets/write.png");
+}
+
+td {
+  padding: 20px;
+}
