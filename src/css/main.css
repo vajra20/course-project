@@ -25,3 +25,10 @@
 td {
   padding: 20px;
 }
+.select-blog {
+  color: red;
+}
+
+.select-blog option {
+  color: black;
+}

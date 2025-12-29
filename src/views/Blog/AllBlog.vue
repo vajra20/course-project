@@ -12,7 +12,7 @@
       </div>
       <div class="flex justify-center md:mt-10 sm:mt-5">
         <div class="sm:block md:hidden w-full">
-          <select class="flex border-2 w-full p-2 rounded-md border-gray-400">
+          <select class="flex border-2 w-full p-2 rounded-md border-gray-400 select-blog">
             <option>Semua</option>
             <option>UI Design</option>
             <option>Programming</option>

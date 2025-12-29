@@ -815,13 +815,9 @@
 </template>
 
 <script>
-import Navbar from "@/components/Navbar.vue";
 import "../css/main.css";
 
 export default {
   name: "Home",
-  components: {
-    Navbar,
-  },
 };
 </script>
